@@ -51,16 +51,7 @@ A podcast-focused platform designed for **livestreaming and real-time interactio
 
 ---
 
-### **TutorX** — Home Tutor Booking Platform  
-🔗 **Live:** https://frontend-sepia-sigma-68.vercel.app  
 
-A full-stack platform where tutors can register and students can book **personalized home tutoring sessions**.
-
-**Key Features**
-- Tutor & student role-based workflows
-- Scheduling & booking system
-- Secure authentication
-- RESTful backend APIs
 
 **Tech Stack**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  
