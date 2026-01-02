@@ -25,17 +25,14 @@ A real-time multiplayer typing platform where users compete and collaborate with
 
 ---
 
-### **PoPo** — Live Podcast & Streaming Platform  
 ### **PoPo Podcast** — Live Podcast & Streaming Platform  
 🔗 **Live:** https://popo-podcast-cl79.vercel.app  
 
-A podcast-focused platform designed for **livestreaming and real-time interaction**, emphasizing smooth media delivery and scalability.
-@@ -37,12 +37,14 @@
-- Clean service separation
+A podcast-focused platform designed for **livestreaming and real-time interaction**, emphasizing smooth media delivery and scalability. **Key Features** - Media processing pipelines - Real-time interaction via WebSockets - Performance-optimized backend - Clean service separation
 
 **Tech Stack**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)  ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)  ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![WebRTC](https://img.shields.io/badge/WebRTC-%23007ACC.svg?style=for-the-badge&logo=webrtc&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![WebRTC](https://img.shields.io/badge/WebRTC-%23007ACC.svg?style=for-the-badge&logo=webrtc&logoColor=white)
 
 
 ---
