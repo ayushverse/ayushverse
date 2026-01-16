@@ -10,7 +10,7 @@ Hey, Ayush here and I am an engineering student pursuing Computer science at Man
 ##  Featured Projects
 
 ### **TypeSync** — Real-Time Multiplayer Typing Playground  
-🔗 **Live:** https://type-sync-iota.vercel.app  
+**Live:** https://type-sync-iota.vercel.app  
 
 A real-time multiplayer typing platform where users compete and collaborate with **live keystroke synchronization** and instant performance metrics.
 
@@ -26,7 +26,7 @@ A real-time multiplayer typing platform where users compete and collaborate with
 ---
 
 ### **PoPo Podcast** — Live Podcast & Streaming Platform  
-🔗 **Live:** https://popo-podcast-cl79.vercel.app  
+ **Live:** https://popo-podcast-cl79.vercel.app  
 
 A podcast-focused platform designed for **livestreaming and real-time interaction**, emphasizing smooth media delivery and scalability. 
 
